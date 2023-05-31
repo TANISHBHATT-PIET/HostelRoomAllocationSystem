@@ -1,0 +1,88 @@
+body{
+    background-color: #eee;
+}
+hr{
+    margin-top: 0vh;
+}
+p{
+    font-size: 35px;
+    height: 5vh;
+    width: 55vw;
+    color: #2d7ce3;
+    margin-top: 0vh;
+    padding-left: 12vw;
+}
+.log {
+    width: 30vw;
+    height: 55vh;
+    background-color: white;
+    position: absolute;
+    box-shadow: 1px 1px 11px 0.05px #c4afaf;
+    margin-top: 20vh;
+    margin-left: 37vw;
+    border-radius: 6px;
+}
+
+.inlog_1 {
+    width: 25vw;
+    height: 6vh;
+    font-size: 20px;
+    padding-left: 2vw;
+    margin-left: 1.3vw;
+    margin-top: 0vh;
+    border-radius: 6px;
+  border:1px solid black;
+    
+}
+
+.inlog_2 {
+    width: 25vw;
+    height: 6vh;
+    font-size: 20px;
+    padding-left: 2vw;
+    margin-left: 1.3vw;
+    margin-top: 5vh;
+    border-radius: 6px;
+    border:1px solid black;
+}
+
+.inlog_3 {
+    width: 20vw;
+    height: 6vh;
+    font-size: 35px;
+    padding-left: 1vw;
+    margin-left: 4vw;
+    margin-top: 6vh;
+    border-radius: 6px;
+    border: none;
+    background-color: #2d7ce3;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+.inlog_4 {
+    width: 30vw;
+    height: 5vh;
+    margin-top: 2vh;
+
+}
+
+.inlog_4 a {
+    text-decoration: none;
+    padding-left: 8vw;
+    font-size: 25px;
+    color: #1877f2;
+}
+.inlog_3 a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+.inlog_3:hover{
+    color: rgb(112, 112, 204);
+}
+.inlog_3:active{
+    color: rgb(155, 204, 112);
+}
+
